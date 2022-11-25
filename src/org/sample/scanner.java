@@ -20,6 +20,8 @@ public class scanner {
 		System.out.println("city");
 		s.next();
 		
+		System.out.println("munees");
+		
 		
 	
 	
